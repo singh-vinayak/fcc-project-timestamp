@@ -10,8 +10,8 @@ This is a Node.js (with Express.js) little application which is part of the FCC 
 
 Example usage:
 ```
-https://boilerplate-project-timestamp.vinayaksingh530.repl.co/api/December%2015,%202015
-https://boilerplate-project-timestamp.vinayaksingh530.repl.co/api/1450137600
+https://fcc-project-timestamp.vinayaksingh530.repl.co/api/December%2015,%202015
+https://fcc-project-timestamp.vinayaksingh530.repl.co/api/1450137600
 ```
 Example output:
 ```
